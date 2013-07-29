@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  database: ts_tester
+  pool: 5
+  timeout: 5000
